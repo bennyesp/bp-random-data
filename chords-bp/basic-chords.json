@@ -1,0 +1,15 @@
+[
+  {
+    "id": "C",
+    "label": "C",
+    "fingersPosition": [
+      { "finger": 1, "fret": 1, "stringPos": 2 },
+      { "finger": 2, "fret": 2, "stringPos": 4 },
+      { "finger": 3, "fret": 3, "stringPos": 5 }
+    ],
+    "stringsPlucked": [5, 4, 3, 2, 1],
+    "background": "#ffffff",
+    "fretStringColor": "#000000",
+    "fingerColor": "#e53935"
+  }
+]
