@@ -24,5 +24,18 @@
     "background": "#ffffff",
     "fretStringColor": "#000000",
     "fingerColor": "#e53935"
+  },
+  {
+    "id": "E",
+    "label": "E",
+    "fingersPosition": [
+      { "finger": 1, "fret": 1, "stringPos": 3 },
+      { "finger": 2, "fret": 2, "stringPos": 5 },
+      { "finger": 3, "fret": 2, "stringPos": 4 }
+    ],
+    "stringsPlucked": [5, 4, 3, 2, 1],
+    "background": "#ffffff",
+    "fretStringColor": "#000000",
+    "fingerColor": "#e53935"
   }
 ]
