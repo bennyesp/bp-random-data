@@ -40,12 +40,12 @@
   },
   {
     "id": "F-easy",
-    "label": "F (Gampang",
+    "label": "F (Gampang)",
     "fingersPosition": [
       { "finger": 1, "fret": 1, "stringPos": 1 },
       { "finger": 1, "fret": 1, "stringPos": 2 },
       { "finger": 2, "fret": 2, "stringPos": 3 },
-      { "finger": 3, "fret": 3, "stringPos": 4 },
+      { "finger": 3, "fret": 3, "stringPos": 4 }
     ],
     "stringsPlucked": [6, 5, 4, 3, 2, 1],
     "background": "#ffffff",
