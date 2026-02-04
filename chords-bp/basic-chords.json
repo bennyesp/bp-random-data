@@ -20,7 +20,7 @@
       { "finger": 2, "fret": 2, "stringPos": 1 },
       { "finger": 3, "fret": 3, "stringPos": 2 }
     ],
-    "stringsPlucked": [5, 4, 3, 2, 1],
+    "stringsPlucked": [4, 3, 2, 1],
     "background": "#ffffff",
     "fretStringColor": "#000000",
     "fingerColor": "#e53935"
@@ -33,7 +33,7 @@
       { "finger": 2, "fret": 2, "stringPos": 5 },
       { "finger": 3, "fret": 2, "stringPos": 4 }
     ],
-    "stringsPlucked": [5, 4, 3, 2, 1],
+    "stringsPlucked": [6, 5, 4, 3, 2, 1],
     "background": "#ffffff",
     "fretStringColor": "#000000",
     "fingerColor": "#e53935"
