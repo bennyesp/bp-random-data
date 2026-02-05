@@ -47,7 +47,7 @@
       { "finger": 2, "fret": 2, "stringPos": 3 },
       { "finger": 3, "fret": 3, "stringPos": 4 }
     ],
-    "stringsPlucked": [6, 5, 4, 3, 2, 1],
+    "stringsPlucked": [4, 3, 2, 1],
     "background": "#ffffff",
     "fretStringColor": "#000000",
     "fingerColor": "#e53935"
@@ -77,6 +77,19 @@
       { "finger": 4, "fret": 3, "stringPos": 1 }
     ],
     "stringsPlucked": [6, 5, 4, 3, 2, 1],
+    "background": "#ffffff",
+    "fretStringColor": "#000000",
+    "fingerColor": "#e53935"
+  },
+  {
+    "id": "A",
+    "label": "A",
+    "fingersPosition": [
+      { "finger": 1, "fret": 2, "stringPos": 4 },
+      { "finger": 2, "fret": 2, "stringPos": 3 },
+      { "finger": 3, "fret": 2, "stringPos": 2 }
+    ],
+    "stringsPlucked": [5, 4, 3, 2, 1],
     "background": "#ffffff",
     "fretStringColor": "#000000",
     "fingerColor": "#e53935"
