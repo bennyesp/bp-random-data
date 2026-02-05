@@ -67,5 +67,18 @@
     "background": "#ffffff",
     "fretStringColor": "#000000",
     "fingerColor": "#e53935"
+  },
+  {
+    "id": "G",
+    "label": "G",
+    "fingersPosition": [
+      { "finger": 2, "fret": 2, "stringPos": 5 },
+      { "finger": 3, "fret": 3, "stringPos": 6 },
+      { "finger": 4, "fret": 3, "stringPos": 1 },
+    ],
+    "stringsPlucked": [6, 5, 4, 3, 2, 1],
+    "background": "#ffffff",
+    "fretStringColor": "#000000",
+    "fingerColor": "#e53935"
   }
 ]
