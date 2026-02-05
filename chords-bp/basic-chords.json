@@ -2,6 +2,7 @@
   {
     "id": "C",
     "label": "C",
+    "category": "basic",
     "fingersPosition": [
       { "finger": 1, "fret": 1, "stringPos": 2 },
       { "finger": 2, "fret": 2, "stringPos": 4 },
@@ -12,9 +13,46 @@
     "fretStringColor": "#000000",
     "fingerColor": "#e53935"
   },
+
+  {
+    "id": "C7",
+    "label": "C7",
+    "category": "basic",
+    "fingersPosition": [
+      { "finger": 1, "fret": 1, "stringPos": 2 },
+      { "finger": 2, "fret": 2, "stringPos": 4 },
+      { "finger": 3, "fret": 3, "stringPos": 5 },
+      { "finger": 4, "fret": 3, "stringPos": 3 }
+    ],
+    "stringsPlucked": [5, 4, 3, 2, 1],
+    "background": "#ffffff",
+    "fretStringColor": "#000000",
+    "fingerColor": "#e53935"
+  },
+
+  {
+    "id": "Cm",
+    "label": "Cm",
+    "category": "basic",
+    "fingersPosition": [
+      { "finger": 1, "fret": 3, "stringPos": 5 },
+      { "finger": 1, "fret": 3, "stringPos": 4 },
+      { "finger": 1, "fret": 3, "stringPos": 3 },
+      { "finger": 1, "fret": 3, "stringPos": 2 },
+      { "finger": 1, "fret": 3, "stringPos": 1 },
+      { "finger": 3, "fret": 5, "stringPos": 4 },
+      { "finger": 4, "fret": 5, "stringPos": 3 }
+    ],
+    "stringsPlucked": [5, 4, 3, 2, 1],
+    "background": "#ffffff",
+    "fretStringColor": "#000000",
+    "fingerColor": "#e53935"
+  },
+
   {
     "id": "D",
     "label": "D",
+    "category": "basic",
     "fingersPosition": [
       { "finger": 1, "fret": 2, "stringPos": 3 },
       { "finger": 2, "fret": 2, "stringPos": 1 },
@@ -25,9 +63,41 @@
     "fretStringColor": "#000000",
     "fingerColor": "#e53935"
   },
+
+  {
+    "id": "D7",
+    "label": "D7",
+    "category": "basic",
+    "fingersPosition": [
+      { "finger": 1, "fret": 1, "stringPos": 2 },
+      { "finger": 2, "fret": 2, "stringPos": 3 },
+      { "finger": 3, "fret": 2, "stringPos": 1 }
+    ],
+    "stringsPlucked": [4, 3, 2, 1],
+    "background": "#ffffff",
+    "fretStringColor": "#000000",
+    "fingerColor": "#e53935"
+  },
+
+  {
+    "id": "Dm",
+    "label": "Dm",
+    "category": "basic",
+    "fingersPosition": [
+      { "finger": 1, "fret": 1, "stringPos": 1 },
+      { "finger": 2, "fret": 2, "stringPos": 3 },
+      { "finger": 3, "fret": 3, "stringPos": 2 }
+    ],
+    "stringsPlucked": [4, 3, 2, 1],
+    "background": "#ffffff",
+    "fretStringColor": "#000000",
+    "fingerColor": "#e53935"
+  },
+
   {
     "id": "E",
     "label": "E",
+    "category": "basic",
     "fingersPosition": [
       { "finger": 1, "fret": 1, "stringPos": 3 },
       { "finger": 2, "fret": 2, "stringPos": 5 },
@@ -38,9 +108,39 @@
     "fretStringColor": "#000000",
     "fingerColor": "#e53935"
   },
+
+  {
+    "id": "E7",
+    "label": "E7",
+    "category": "basic",
+    "fingersPosition": [
+      { "finger": 1, "fret": 1, "stringPos": 3 },
+      { "finger": 2, "fret": 2, "stringPos": 5 }
+    ],
+    "stringsPlucked": [6, 5, 4, 3, 2, 1],
+    "background": "#ffffff",
+    "fretStringColor": "#000000",
+    "fingerColor": "#e53935"
+  },
+
+  {
+    "id": "Em",
+    "label": "Em",
+    "category": "basic",
+    "fingersPosition": [
+      { "finger": 2, "fret": 2, "stringPos": 5 },
+      { "finger": 3, "fret": 2, "stringPos": 4 }
+    ],
+    "stringsPlucked": [6, 5, 4, 3, 2, 1],
+    "background": "#ffffff",
+    "fretStringColor": "#000000",
+    "fingerColor": "#e53935"
+  },
+
   {
     "id": "F-easy",
     "label": "F (Gampang)",
+    "category": "basic",
     "fingersPosition": [
       { "finger": 1, "fret": 1, "stringPos": 1 },
       { "finger": 1, "fret": 1, "stringPos": 2 },
@@ -52,9 +152,11 @@
     "fretStringColor": "#000000",
     "fingerColor": "#e53935"
   },
+
   {
     "id": "F",
     "label": "F",
+    "category": "basic",
     "fingersPosition": [
       { "finger": 1, "fret": 1, "stringPos": 1 },
       { "finger": 1, "fret": 1, "stringPos": 2 },
@@ -68,9 +170,26 @@
     "fretStringColor": "#000000",
     "fingerColor": "#e53935"
   },
+
+  {
+    "id": "F7",
+    "label": "F7",
+    "category": "basic",
+    "fingersPosition": [
+      { "finger": 1, "fret": 1, "stringPos": 1 },
+      { "finger": 2, "fret": 2, "stringPos": 3 },
+      { "finger": 3, "fret": 3, "stringPos": 5 }
+    ],
+    "stringsPlucked": [6, 5, 4, 3, 2, 1],
+    "background": "#ffffff",
+    "fretStringColor": "#000000",
+    "fingerColor": "#e53935"
+  },
+
   {
     "id": "G",
     "label": "G",
+    "category": "basic",
     "fingersPosition": [
       { "finger": 2, "fret": 2, "stringPos": 5 },
       { "finger": 3, "fret": 3, "stringPos": 6 },
@@ -81,13 +200,131 @@
     "fretStringColor": "#000000",
     "fingerColor": "#e53935"
   },
+
+  {
+    "id": "G7",
+    "label": "G7",
+    "category": "basic",
+    "fingersPosition": [
+      { "finger": 1, "fret": 1, "stringPos": 1 },
+      { "finger": 2, "fret": 2, "stringPos": 5 },
+      { "finger": 3, "fret": 3, "stringPos": 6 }
+    ],
+    "stringsPlucked": [6, 5, 4, 3, 2, 1],
+    "background": "#ffffff",
+    "fretStringColor": "#000000",
+    "fingerColor": "#e53935"
+  },
+
+  {
+    "id": "Gm",
+    "label": "Gm",
+    "category": "basic",
+    "fingersPosition": [
+      { "finger": 1, "fret": 3, "stringPos": 6 },
+      { "finger": 1, "fret": 3, "stringPos": 5 },
+      { "finger": 1, "fret": 3, "stringPos": 4 },
+      { "finger": 1, "fret": 3, "stringPos": 3 },
+      { "finger": 1, "fret": 3, "stringPos": 2 },
+      { "finger": 1, "fret": 3, "stringPos": 1 }
+    ],
+    "stringsPlucked": [6, 5, 4, 3, 2, 1],
+    "background": "#ffffff",
+    "fretStringColor": "#000000",
+    "fingerColor": "#e53935"
+  },
+
   {
     "id": "A",
     "label": "A",
+    "category": "basic",
     "fingersPosition": [
       { "finger": 1, "fret": 2, "stringPos": 4 },
       { "finger": 2, "fret": 2, "stringPos": 3 },
       { "finger": 3, "fret": 2, "stringPos": 2 }
+    ],
+    "stringsPlucked": [5, 4, 3, 2, 1],
+    "background": "#ffffff",
+    "fretStringColor": "#000000",
+    "fingerColor": "#e53935"
+  },
+
+  {
+    "id": "A7",
+    "label": "A7",
+    "category": "basic",
+    "fingersPosition": [
+      { "finger": 1, "fret": 2, "stringPos": 4 },
+      { "finger": 2, "fret": 2, "stringPos": 3 }
+    ],
+    "stringsPlucked": [5, 4, 3, 2, 1],
+    "background": "#ffffff",
+    "fretStringColor": "#000000",
+    "fingerColor": "#e53935"
+  },
+
+  {
+    "id": "Am",
+    "label": "Am",
+    "category": "basic",
+    "fingersPosition": [
+      { "finger": 1, "fret": 1, "stringPos": 2 },
+      { "finger": 2, "fret": 2, "stringPos": 4 },
+      { "finger": 3, "fret": 2, "stringPos": 3 }
+    ],
+    "stringsPlucked": [5, 4, 3, 2, 1],
+    "background": "#ffffff",
+    "fretStringColor": "#000000",
+    "fingerColor": "#e53935"
+  },
+
+  {
+    "id": "B",
+    "label": "B",
+    "category": "basic",
+    "fingersPosition": [
+      { "finger": 1, "fret": 2, "stringPos": 5 },
+      { "finger": 1, "fret": 2, "stringPos": 4 },
+      { "finger": 1, "fret": 2, "stringPos": 3 },
+      { "finger": 1, "fret": 2, "stringPos": 2 },
+      { "finger": 1, "fret": 2, "stringPos": 1 },
+      { "finger": 3, "fret": 4, "stringPos": 4 },
+      { "finger": 4, "fret": 4, "stringPos": 3 }
+    ],
+    "stringsPlucked": [5, 4, 3, 2, 1],
+    "background": "#ffffff",
+    "fretStringColor": "#000000",
+    "fingerColor": "#e53935"
+  },
+
+  {
+    "id": "B7",
+    "label": "B7",
+    "category": "basic",
+    "fingersPosition": [
+      { "finger": 1, "fret": 1, "stringPos": 4 },
+      { "finger": 2, "fret": 2, "stringPos": 5 },
+      { "finger": 3, "fret": 2, "stringPos": 3 },
+      { "finger": 4, "fret": 2, "stringPos": 1 }
+    ],
+    "stringsPlucked": [5, 4, 3, 2, 1],
+    "background": "#ffffff",
+    "fretStringColor": "#000000",
+    "fingerColor": "#e53935"
+  },
+
+  {
+    "id": "Bm",
+    "label": "Bm",
+    "category": "basic",
+    "fingersPosition": [
+      { "finger": 1, "fret": 2, "stringPos": 5 },
+      { "finger": 1, "fret": 2, "stringPos": 4 },
+      { "finger": 1, "fret": 2, "stringPos": 3 },
+      { "finger": 1, "fret": 2, "stringPos": 2 },
+      { "finger": 1, "fret": 2, "stringPos": 1 },
+      { "finger": 3, "fret": 4, "stringPos": 4 },
+      { "finger": 4, "fret": 4, "stringPos": 3 }
     ],
     "stringsPlucked": [5, 4, 3, 2, 1],
     "background": "#ffffff",
