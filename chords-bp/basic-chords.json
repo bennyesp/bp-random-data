@@ -138,6 +138,20 @@
   },
 
   {
+    "id": "F-super-easy",
+    "label": "F (Paling Gampang)",
+    "category": "basic",
+    "fingersPosition": [
+      { "finger": 1, "fret": 1, "stringPos": 1 },
+      { "finger": 1, "fret": 1, "stringPos": 2 },
+      { "finger": 2, "fret": 2, "stringPos": 3 },
+    ],
+    "stringsPlucked": [3, 2, 1],
+    "background": "#ffffff",
+    "fretStringColor": "#000000",
+    "fingerColor": "#e53935"
+  },
+  {
     "id": "F-easy",
     "label": "F (Gampang)",
     "category": "basic",
