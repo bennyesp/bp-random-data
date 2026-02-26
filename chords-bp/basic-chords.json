@@ -144,7 +144,7 @@
     "fingersPosition": [
       { "finger": 1, "fret": 1, "stringPos": 1 },
       { "finger": 1, "fret": 1, "stringPos": 2 },
-      { "finger": 2, "fret": 2, "stringPos": 3 },
+      { "finger": 2, "fret": 2, "stringPos": 3 }
     ],
     "stringsPlucked": [3, 2, 1],
     "background": "#ffffff",
@@ -191,8 +191,11 @@
     "category": "basic",
     "fingersPosition": [
       { "finger": 1, "fret": 1, "stringPos": 1 },
+      { "finger": 1, "fret": 1, "stringPos": 2 },
       { "finger": 2, "fret": 2, "stringPos": 3 },
-      { "finger": 3, "fret": 3, "stringPos": 5 }
+      { "finger": 1, "fret": 1, "stringPos": 4 },
+      { "finger": 3, "fret": 3, "stringPos": 5 },
+      { "finger": 1, "fret": 1, "stringPos": 6 }
     ],
     "stringsPlucked": [6, 5, 4, 3, 2, 1],
     "background": "#ffffff",
